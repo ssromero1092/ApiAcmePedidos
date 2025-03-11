@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jGCEnBfUKhhSpABSzEqeiItCGiTAEnyHNb3I4z8M9EI=",
+  "Source": "ApiAcmePedidos",
+  "BasePath": "_content/ApiAcmePedidos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
