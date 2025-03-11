@@ -57,7 +57,7 @@ El proyecto utiliza las siguientes dependencias:
 
 1. Clona el repositorio en tu equipo local:
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/ssromero1092/ApiAcmePedidos.git
    ```
 2. Accede al directorio del proyecto:
    ```sh
