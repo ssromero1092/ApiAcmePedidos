@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAcmePedidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+858217e31a981e2ccfe34eae96ad2941b60bdd63")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAcmePedidos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAcmePedidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
