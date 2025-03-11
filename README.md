@@ -139,6 +139,3 @@ Archivo de configuración para construir y ejecutar la aplicación en un contene
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que te gustaría realizar.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
